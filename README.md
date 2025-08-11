@@ -1,4 +1,2 @@
-# Projects
-Projects that are part of my assignments
-I uploaded my part 1 and 2 assignment for the POE
-Lastly I uploaded my part 3 for the POE
+# Project - Contract Monthly Claims 
+I just uploaded the lecturer and Claim pages. Next I will upload the Programme Coordinator page after i have done designing it.

@@ -5,3 +5,4 @@ Today I uploaded the Academic Manager page and I also did some changes to the Le
 
 #Part 2
 I implemented the Programme Coordinator page lastly I will implement the Academic Manager page.
+I just implemented the Academic Manager page and I also did some changes to the lecturer page. Next I will review the project implementations to see if they need some changes.
